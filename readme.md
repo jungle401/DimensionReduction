@@ -1,8 +1,8 @@
 Eigenfaces:
 
 <img src="/output/eigenfaces/PCA/eigenface0.png" width=15% alt="Image 1">
-<img src="/output/eigenfaces/PCA/eigenface0.png width=15% alt="Image 2">
-<img src="/output/eigenfaces/PCA/eigenface1.png width=15% alt="Image 3">
+<img src="/output/eigenfaces/PCA/eigenface0.png" width=15% alt="Image 2">
+<img src="/output/eigenfaces/PCA/eigenface1.png" width=15% alt="Image 3">
 <img src="/output/eigenfaces/PCA/eigenface10.png width=15%>
 <img src="/output/eigenfaces/PCA/eigenface11.png width=15%>
 <img src="/output/eigenfaces/PCA/eigenface12.png width=15%>
