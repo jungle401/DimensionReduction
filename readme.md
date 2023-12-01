@@ -3,7 +3,7 @@ Eigenface Calculation using PCA:
 
 Stack all normalized face images into a single matrix where each column represents a flattened face image. <br />
 Compute the covariance matrix of the image matrix. <br />
-Calculate the eigenvectors (principal components) and eigenvalues of the covariance matrix. These eigenvectors are referred to as "Eigenfaces." <br/>
+Calculate the eigenvectors (principal components) and eigenvalues of the covariance matrix. These eigenvectors are referred to as "Eigenfaces." <br />
 The Eigenfaces are ordered by their corresponding eigenvalues, and the top eigenfaces capture the most variance in the dataset. <br />
 
 Eigenfaces:
@@ -34,3 +34,8 @@ Eigenfaces:
     <img src="/output/eigenfaces/PCA/eigenface8.png" width=15%  alt="Image 24">
     <img src="/output/eigenfaces/PCA/eigenface9.png" width=15%  alt="Image 25">
 </div>
+
+Recognition:
+
+To recognize a new face, project it into the Eigenspace formed by the Eigenfaces. <br />
+Compare the coefficients obtained for the new face with the coefficients of known faces using a similarity measure (such as Euclidean distance or cosine similarity) to determine the closest match.<br />
