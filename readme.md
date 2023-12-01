@@ -1,5 +1,5 @@
 Eigenfaces:
-
+<div>
 <img src="/output/eigenfaces/PCA/eigenface0.png" width=15% alt="Image 1">
 <img src="/output/eigenfaces/PCA/eigenface0.png" width=15% alt="Image 2">
 <img src="/output/eigenfaces/PCA/eigenface1.png" width=15% alt="Image 3">
@@ -25,3 +25,4 @@ Eigenfaces:
 <img src="/output/eigenfaces/PCA/eigenface7.png" width=15%  alt="Image 23">
 <img src="/output/eigenfaces/PCA/eigenface8.png" width=15%  alt="Image 24">
 <img src="/output/eigenfaces/PCA/eigenface9.png" width=15%  alt="Image 25">
+</div>
