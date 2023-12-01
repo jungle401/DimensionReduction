@@ -1,10 +1,10 @@
 
 Eigenface Calculation using PCA:
 
-Stack all normalized face images into a single matrix where each column represents a flattened face image.
-Compute the covariance matrix of the image matrix.
-Calculate the eigenvectors (principal components) and eigenvalues of the covariance matrix. These eigenvectors are referred to as "Eigenfaces."
-The Eigenfaces are ordered by their corresponding eigenvalues, and the top eigenfaces capture the most variance in the dataset.
+Stack all normalized face images into a single matrix where each column represents a flattened face image. <br />
+Compute the covariance matrix of the image matrix. <br />
+Calculate the eigenvectors (principal components) and eigenvalues of the covariance matrix. These eigenvectors are referred to as "Eigenfaces." <br/>
+The Eigenfaces are ordered by their corresponding eigenvalues, and the top eigenfaces capture the most variance in the dataset. <br />
 
 Eigenfaces:
 <div>
